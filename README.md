@@ -1,3 +1,7 @@
+= தமிழ் எழுத்து தொடர் வெப்பப்படம்(?)
+
+முன்னூறாயிரம் சொற்களை கொண்டு, எந்தெந்த எழுத்து எவற்றை தொடர்ந்து வரும் என்று பார்க்கும் முயற்சி.
+
 === Tamil Weighted Letter Chain Heatmap
 
 This heatmap is produced from over 3 million tamil words collected from news websites. The heatmap is to be read from left to right, i.e the first row of the grid mean, the what tamil letters follow 'ஃ. The rendering of tamil fonts in plotting package is still limited, that is the reason of bizzare text in title as well as the labels. The corpus and the scripts will be made available soon.
